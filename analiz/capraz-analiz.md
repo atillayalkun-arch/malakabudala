@@ -11,6 +11,47 @@ Kaynak: `analiz/kartlar/*.md` (13 kart) ve `japa analizzz/*/` ham verisi.
 - **Yorum verisi:** Videonun yorumlarının tamamı değil, seçilmiş 36-100 ana yorum.
 - **Kullanıcı bildirimleri [K]:** Konuşmacı sesi **kaliteli, bu kanala özgü AI ses** (başka kanalla ortak ya da kopya değil); arka planda **hafif gerilim/gizem müziği**; kapaklar düzensiz görünüyor; kapak stili animasyonla uyuşmuyor; animasyon: lacivert gece sahneleri, düz vektör, parlak hale, üst solda bölüm başlığı, altta büyük kalın altyazı (ekran görüntüsü, **örneklemde olmayan** bir videodan; bkz. kart 042 düzeltmesi). Şiddet içeren/ayrımcı yorumlar (002, 018) bizim için olumsuz değil, **dikkatsiz izleyici sinyali** olarak okunacak.
 
+## 0b. GÜNCELLEME — 55 videonun tam listesi geldi (bu bölüm aşağıdaki bulguları geçersiz kılar/düzeltir)
+Kaynak: `japa analizzz/video_listesi.md` (ham), `analiz/video-listesi-kodlu.md` (benim konu kodlamam). Artık "ortadaki videolar yok" sınırı kalktı; **kalan sınırlar:** CTR/izlenme süresi yok, konu kodlaması benim yargım, olgunlaşmamış son videolar (050-055).
+
+**U1. Tabanın zamanla yükselmesi artık veriyle kanıtlı [S].** Uzun video medyanı (n=49, genel 89.868): **16 Tem - 10 Ağu: 37.7K (n=15)** → **11 Ağu - 1 Eyl: 89.9K (n=11)** → **2 Eyl - 14 Eki: 123.7K (n=23)**. Aylık: Tem 46,7K / Ağu 78,0K / Eyl 154,6K / Eki 117,4K (Eki olgunlaşmadı). **Dönemler arası konu kıyası yanıltıcı; yalnızca aynı dönem içi kıyas yapılmalı.** (Eski B8 "zayıf" idi, artık **güçlü**.)
+
+**U2. Aynı dönem kıyası: IQ konusu sınırı net ayırıyor, ama Short karıştırıcısı duruyor [S].** 16 Tem - 10 Ağu arasındaki 15 uzun videoda:
+| Grup | Videolar | İzlenme |
+|---|---|---|
+| IQ / zekâ (4) | 002, 003, 005, 017 | 441K, 158K, 83K, 1,02M (medyan ~300K) |
+| Diğer (11) | 001, 004, 006, 007, 008, 009, 010, 011, 012, 014, 016 | 10,8K - 74K (medyan 30,6K) |
+Gruplar **tam ayrışıyor**: IQ grubunun en düşüğü (005: 82,8K) diğerlerinin en yükseğinden (007: 74K) büyük. **Aynı gün yüklenen 003 (IQ, 158K) ile 004 (nostalji, 14K): 11 kat.** Bu, B1'i **güçlendiriyor**. **Hâlâ geçerli uyarı:** 002/003 sonradan 015'in sabit yorumu ve 048'in açıklamasındaki "関連動画" bağlantılarıyla beslenmiş olabilir (048 açıklaması 002 ve **003**'e link veriyor). Yani erken tahminin ilk günlerdeki hızı bilinmiyor.
+
+**U3. IQ tek başına değil; konu haritası genişledi [S].** Uzun videoların konu medyanları (benim kodlamam; `video-listesi-kodlu.md`):
+| Konu grubu | n | Medyan | Aralık |
+|---|---|---|---|
+| **Problem / düşünce deneyi** (025, 028, 033) | 3 | **185,7K** | 168K - 203K (**3/3 medyanın ~2x'i**) |
+| **IQ / zekâ / düşünce gücü** | 7 | 158,4K | 82,8K - 2,64M |
+| **Kişiler arası çekim / uyum / sohbet** (011, 026, 040, 042, 051, 053) | 6 | 137,9K | 31,9K - 352,6K |
+| Aile / ACE / "yaşamak zor" (006, 020, 024, 035) | 4 | 98,4K | 62,7K - 195,5K |
+| Diğer (kognisyon, trivia, kuşak, dil, zaman, ...) | 14 | 86,7K | 2,2K (yeni) - 534K |
+| İş yerinde insan tipi / istifa (001, 007, 012, 023, 039, 043, 047) | 7 | 74,0K | 22,6K - 301K |
+| **Klinik / özellik** (009, 014, 016, 030, 045) | 5 | **37,7K** | 15K - 90K |
+| 004 / 008 / 010 (nostalji, kan grubu, film) | 3 | **14,2K** | 10,8K - 26,8K |
+Yani **zayıf uç: klinik/özellik ve duygu-nostalji-etiket-film**; **güçlü uç: bulmaca/düşünce deneyi, IQ/zekâ, kişiler arası çekim-uyum**. Eylül'den sonraki 🔥 videoların çoğu IQ dışı: 034 (心理トリック 245K), 035 (30 dk "人生が辛い" 195K), 036 (スマホで脳退化 354K), 039 (会社員8類型 301K), 040 (相性5つのサイン 341K), 042 (魅力 353K).
+- **Klinik "見えている世界" videoları** 030 (ASD) = 89,9K (kendi döneminde ortalama), 045 (HSP) = 81,8K (Eylül medyanının ~0,5x'i). Eski B2 doğrulandı ama "çok zayıf" yerine **"kendi dönem medyanının altında/yanında"**.
+- **Bulmaca/düşünce deneyi** formatı (025: "実際に出題された入社試験", 028: "この答えが分かりますか", 033: "この答えがわかったら超天才です") **örneklemde yoktu ve 3/3 sağlam** → yeni bir kalıp aday: **zekâ meydan okuma + net cevap**.
+- **Sınıflama/sayı başlıkları** (039 "8類型", 040 "5つのサイン", 042 "5つの秘密", 043 "7類型", 047 "7つのサイン"): 5 videonun 4'ü 107K - 353K. Sayı içeren başlıkların uzun video medyanı **113K** (n=10), olmayanlar 83K (n=39). Zaman karıştırıcısı var.
+
+**U4. Short'lar [S].** Toplam 6 Short (4 - 13 Ağu), **medyan 68K**; yalnızca **015 (3,2M) ve 018 (516K)** patladı. **IQ'lu Short'lardan 019 (58K) ve 021 (78K) ortalama**, 013 (36K), 022 (53K) de öyle. **Short sıçraması konuyla açıklanmıyor; 015 bir aykırı değer.** **13 Ağu'dan sonra hiç Short yüklenmemiş** (22 gün). Short → uzun bağlantısı: **015 sabit yorumu → 002**, **018 sabit yorumu → 007** (**007: "仕事できないのにプライド高い人の正体", 74K**, bunu önceki karttaki "hedef video bu örneklemde yok" notu yerine koyuyorum).
+- **DÜZELTME (B4):** 018'in Dunning-Kruger cümleleri 002'dekiyle aynı, **ama** 018'in sabit yorumu 007'ye bağlıyor ve 018'in başlığı 007'nin konusu. 007'nin transkriptine sahip değiliz; **018'in kaynağı 002 değil 007 olabilir** (iki videoda da aynı bilgi bulunması muhtemel). "018 = 002'nin kesiti" kesin değil, **"002 ya da 007'nin kesiti"**. 015 → 002 eşleşmesi sağlam (metin birebir + sabit yorum).
+
+**U5. Memnuniyet ↔ erişim ilişkisi 54 videoda da var, ama daha zayıf [S].** İzlenme ↔ beğeni oranı: tüm videolar (n=54, >10K) **ρ = -0,52**, yalnızca uzun (n=48) **ρ = -0,54**; izlenme ↔ yorum oranı **-0,35** (tüm) / **-0,46** (uzun). Eski n=13 sonucu (-0,61 / -0,70) **fazla güçlüydü**; gerçek değer daha ılımlı. Yön tutarlı.
+
+**U6. Süre [S].** Uzun videolarda süre ↔ izlenme ρ = +0,33 (zayıf). 29-33 dk'lık 035 (195K), 046 (155K) iyi; 045 (29 dk, 82K) orta. Süre belirleyici değil.
+
+**U7. Başlık özellikleri [S]; hepsi zaman karıştırıcılı.** 【…】 etiketi taşıyan uzun videolar (n=33) medyan **119,9K**, taşımayanlar (n=16) **63,6K**; ama etiketli videolar çoğunlukla Eylül sonrası. Başlıkta açıkça "見えてる/視えてる世界" olanlar (002, 030, 045, 052; n=4) medyan 265K ama dağılım 82K - 534K. "?" soru işareti fark yaratmıyor (89,9K / 97,7K). "あなた" 105K / 89K. Hiçbiri kendi başına güvenilir değil.
+
+**U8. Dikkat: art arda gelen videoların karşılaştırması olgunluk yüzünden yanıltıcı.** 050-055 henüz 0-9 günlük. **054'ün 68K'sı ve 051'in 80K'sı** 049/042 ile doğrudan kıyaslanamaz.
+
+**U9. Ekran görüntülerinin kaynağı doğrulandı.** Kullanıcının animasyon kareleri **051 "【進化心理学】男女が感じる"魅力"の違い、考えてみた。" (16:30)** videosundan (süre 16:29 uyuşuyor). Bu video örneklem dışı, 80K.
+
 ## 1. Sayısal tablo [S]
 Beğeni/yorum oranı = beğeni (ya da yorum) / izlenme. Veri çekimi 2026-10-14.
 
@@ -70,7 +111,7 @@ Spearman (13 video): izlenme ↔ beğeni oranı **ρ = -0,61**, izlenme ↔ yoru
 - **Zayıflık:** n küçük, ρ güven aralığı geniş. Yön, üç ayrı alt örnekte aynı.
 
 ### B4. Short = uzun videonun kesiti; Short uzun videoyu büyütmüş olabilir [G]
-015 ve 018'in metinleri 002'nin içinde var (kart 002). 015 (3,2M) 002'den 7 kat, 018 (516K) 1,2 kat fazla izlendi. İkisinin sabit yorumunda uzun videoya link var. **Açı değişimi:** 002'deki Dunning-Kruger "rahatlatıcı" (endişeleniyorsan metabilişin çalışıyor), 018'de "suçlayıcı" (プライド高い無能). Aynı öncül, farklı açı, farklı sonuç: **Short'larda dışlama/suçlama açıları** daha çok yorum ve hakaret çekmiş (015: patron suçlaması; 018: şiddet şakaları), **uzun videolarda "iki taraf aynı yapı"** çerçevesi daha sıcak yorumlar çekmiş.
+015'in metni 002'nin içinde var (kart 002); 018'in DK cümleleri de 002'dekiyle aynı ama sabit yorum 007'ye bağlıyor (bkz. U4). 015 (3,2M) 002'den 7 kat, 018 (516K) 1,2 kat fazla izlendi. İkisinin sabit yorumunda uzun videoya link var. **Açı değişimi:** 002'deki Dunning-Kruger "rahatlatıcı" (endişeleniyorsan metabilişin çalışıyor), 018'de "suçlayıcı" (プライド高い無能). Aynı öncül, farklı açı, farklı sonuç: **Short'larda dışlama/suçlama açıları** daha çok yorum ve hakaret çekmiş (015: patron suçlaması; 018: şiddet şakaları), **uzun videolarda "iki taraf aynı yapı"** çerçevesi daha sıcak yorumlar çekmiş.
 
 ### B5. Aynı iskelet 11 uzun videonun hepsinde var [G]
 - **Açılış marka cümlesi** "今夜も深淵を覗いていこう" 11/11 videoda, **0:46 - 1:35** arasında; **kapanış** "また次の深淵でお会いしましょう" 11/11.
@@ -144,19 +185,19 @@ Kullanıcıya göre ses **kaliteli, bu kanala özgü AI ses**. Kartlardaki ses y
 ## 4. Çürütme turu (Aşama 4'ün ilk geçişi)
 | Bulgu | En güçlü karşı kanıt | Durum |
 |---|---|---|
-| B1 Konu belirleyici | 015/018, 002'nin kesiti; Short sıçraması 017'yi besledi; yalnız 002 bağımsız | **Zayıflıyor ama ayakta** (orta güven) |
+| B1 Konu belirleyici | Short/"関連動画" beslemesi; ilk günlerin hızı bilinmiyor. **Tam listede aynı dönemde 4 IQ videosu 11 diğerinin hepsinin üstünde (U2); 003 vs 004 aynı gün 11x** | **Güçlendi** (orta-yüksek güven) |
 | B1 Kapak ailesi belirleyici değil | 009/014 aynı aile, zayıf; 002/015 aynı aile, güçlü | **Güçlü** |
 | B2 Klinik konu zayıf | Erken dönem (kanal küçük) ve yalnızca 2 örnek; devam notundaki ASD/HSP verisi doğrulanmamış | **Orta** |
-| B3 Ters ilişki | n=13, ρ güven aralığı geniş; beğeni/yorum olgunlaşma etkisi | **Orta; yön 3 alt örnekte tutarlı** |
+| B3 Ters ilişki | n=13'te fazla güçlü çıkmıştı; n=54'te ρ -0,52 (beğeni), -0,35 (yorum) | **Orta; yön tutarlı, büyüklük ılımlı (U5)** |
 | B5 İskelet ortak | Seçilim yanlılığı yok (11/11) | **Güçlü (gözlem)** |
 | B5 Açık döngü önemli | Performans dağılımı aynı | **Çürütüldü (belirleyici değil)** |
-| B8 Taban yükselmesi | Seçim yanlılığı (geç dört video "üst grup" seçildi) | **Zayıf** |
+| B8 Taban yükselmesi | (tam liste) dönem medyanları 37,7K → 89,9K → 123,7K | **Güçlü (U1)** |
 | B9 CTA kalitesi | Küçük örnek; yorum kalitesi öznel | **Orta** |
 | B10 Ses olumlu | Beğeni-ağırlıklı küçük sayım; yorum yazanlar seçilmiş | **Orta** |
 | B11 Profil | Yalnızca yorum yazanlar | **Zayıf-orta (hipotez)** |
 
 ## 5. Açık sorular (sonraki aşama için)
-1. **IQ/iş yeri talebi gerçekten mi, yoksa Short sıçraması mı?** 55 videonun tamamı (özellikle 10 Ağu - 19 Eyl arası ve "orta" videolar) bu soruyu en çok netleştirir. **Eksik veri: tüm 55 videonun başlık+tarih+izlenme listesi** (devam notunda "video listesi" kullanıcıda var).
+1. **IQ/zekâ talebi mi, yoksa Short sıçraması mı?** Tam liste geldi (bkz. 0b/U2): aynı dönem içinde ayrışma net, ama ilk günlerin hızı (CTR/ilk 7 gün) bilinmiyor. Bu soru kesin kapanmayacak; hipotez düzeyinde "talep" ilkesini sürdürüyoruz.
 2. **Tüm kapakların yan yana kıyası** (13 kapağı biz gördük; diğer 42 gerekirse).
-3. **Animasyondan örnek kareler:** kullanıcı ekran görüntüleri tek bir videodan; 3-4 videodan kare bakmak, "animasyon dili tutarlı mı" sorusunu kesinleştirir.
+3. ~~Animasyondan örnek kareler~~: kullanıcı animasyon dilini kendisi gördü, test gerekmiyor.
 4. **Kanalın gerçek izleyici yaşı/cinsiyeti** (YouTube Analytics yok; yalnızca yorumlardan çıkarım).
