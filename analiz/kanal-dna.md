@@ -1,108 +1,73 @@
-# Kanal DNA'sı (konumlandırma), sürüm 0.5
+# Kanal DNA'sı, sürüm 1.0
 
-Bu belge kanalın kimliğidir. Her video fikri bu belgeye göre değerlendirilir: fikir DNA'ya uymak zorundadır, DNA fikre uymaz. Kurallar numaralıdır; değerlendirme yaparken kural numarasını belirt.
+Bu belge kanalın kimliğidir. Kanalın ne hakkında olduğunu, kime hizmet ettiğini ve konuları nasıl ele aldığını tanımlar. Her video fikri bu kimliğe uymak zorundadır.
 
-## 1. Değişmez çekirdek ve ayarlanabilir kısım
-**Değişmez çekirdek (kimlik).** Bunlar değişirse bu kanal değil, başka bir kanal olur. Bunları değiştiren bir fikir veya öneri reddedilir:
-- N1 konu tanımı, N2 kimlik testi.
-- Ç1 yargılamayan çerçeve.
-- M1-M3 maskot ve ton ilkeleri.
-- K1-K5 kanıt ve güvenlik kuralları.
-- T1 talep ilkesi.
-- Bölüm 11 yapmayacaklarımız.
-Örnek: kanalı eğlence/trivia kanalına çevirmek, kanıt derecesini bırakmak, sansasyonel/korku temalı bir kimliğe geçmek çekirdek değişikliğidir, yapılmaz.
+## 1. Kimlik cümlesi
+**İnsanlarla ve kendi zihniyle gündelik hayatta zorlanan çalışan yetişkinlere, davranışın arkasındaki mekanizmayı suçlamadan açıklayan, uygulanabilir bir adım veren ve bilginin ne kadar sağlam olduğunu dürüstçe söyleyen kanal.**
 
-**Ayarlanabilir kısım.** Yalnızca aynı yönde birden çok güçlü kanıtla ve çekirdeğe dokunmadan değişir; tek bir fikir veya tek bir video bunu değiştirmez:
-- Kapsam alanlarının sınırı ve sırası (bölüm 3).
-- N4-N6 ayrıntıları.
-- İzleyici tanımı (bölüm 4).
-- Ç2-Ç6 uygulama ayrıntıları.
+Bu cümle kanalın ağırlık merkezidir; konu listesi değildir. Konular geniş olabilir (bölüm 5), ama hepsi aynı kitleye (bölüm 2) aynı açıyla (bölüm 4) hizmet eder.
 
-## 2. Kimlik ve vaat
-- **N1 Konu:** İnsan zihni ve davranışının günlük hayattaki işleyişi. Kanal bunun nasıl çalıştığını açıklar, nasıl kullanılacağını gösterir ve her iddianın ne kadar sağlam olduğunu söyler.
-- **N2 Kimlik testi:** Her video üç koşulu da sağlar; biri eksikse video kanalın dışındadır.
-  - **N2-A Mekanizma:** Zihnin, insanın veya toplumun bir şeyi nasıl yaptığını açıklıyor.
-  - **N2-B Kullanım:** İzleyiciye somut, kullanılabilir bir şey veriyor (cümle kalıbı, sıra, "ne zaman söylememeli", bir araç, bir alıştırma).
-  - **N2-C Kanıt derecesi:** İddialara Güçlü/Orta/Zayıf derece yazılabiliyor (bölüm 8).
-- **N3:** Kanalın kimliğini konu değil N1-N2 tanımlar. Konular kapsam alanlarına ayrılır (bölüm 3).
-- **N4 Sahneler:** İş yeri, aile, partner, arkadaşlık, kuşaklar arası ilişki. İş yeri sık kullanılan bir sahnedir, kanalın sınırını çizmez.
-- **N5 Özel formatlar:** Bulmaca/düşünce deneyi ana konu değil, videoya giriş kancası veya Short formatıdır. Klinik/özellik konuları (ADHD, ASD, HSP vb.) ana konu değildir; yalnızca "o kişiyle birlikte yaşayan/çalışan için pratik rehber" açısıyla kullanılabilir.
-- **N6 Dışarıda kalanlar (fikir bu listedeyse reddedilir):**
-  - N2 testini geçmeyen her şey.
-  - Saf eğlence konuları: kan grubu, burç, film zevki, nostalji.
-  - Kişi etiketleme ("şu tip insan") ve "öteki"yi suçlama açısı.
-  - Klinik tanıyı izleyicinin kendisini anlatan formatta ana konu yapmak.
-  - Kullanımı olmayan saf bilgi veya kültür anlatısı.
-  - Kişisel gelişim konuları N2 testini geçerse içeridedir.
+## 2. İzleyici
+- **Kim:** 30-55 yaş, çalışan yetişkinler. Yönetici ve çalışan, ebeveyn, eş, yaşlı ebeveynine bakan; iki kuşak arasında kalanlar.
+- **Ne yaşıyor:** Kendinden farklı düşünen, konuşan veya farklı kuşaktan insanlarla gündelik sürtüşme. "Beni anlamıyorlar" ya da "onu anlayamıyorum" hissi. Kendi zihninin nasıl çalıştığını (neden yoruluyorum, neden söze dökemiyorum, neden aynı hatayı yapıyorum) anlamak istiyor.
+- **Ne istiyor:** (1) Adını koyamadığı yaşantıya bir ad, (2) kimseyi suçlamayan bir açıklama, (3) yarın deneyebileceği küçük, somut bir adım.
+- **Özellikleri:** Aşırı düşünen, kendini sorgulayan; bir kısmı kendi bilişsel profilini (ör. zekâ testi alt puanları) biliyor; bir kısmı AI araçlarını düşünme ve yazma için kullanıyor; küçük ama tutarlı bir kısmı kaynak ve güncellik soruyor.
 
-## 3. Kapsam alanları
-Alanlar kimliğe yakınlık sırasıyla dizilir. Fikir önce içteki alanlarda aranır.
-| Alan | Kapsam |
-|---|---|
-| **P1 Kişiler arası anlaşma** | Farklı düşünen, farklı konuşan, farklı kuşaktan veya farklı bilişsel tarzdan insanla nasıl anlaşılır: talimat, geri bildirim, özür, ret, çatışma; iş, aile, partner sahneleri |
-| **P2 İletişim ve düşünme becerisi** | Sözelleştirme, anlatma, dinleme, soru sorma, karar verme, hata, AI ile düşünme ve yazma |
-| **P3 Günlük zihin ve davranış** | Dikkat, zaman algısı, rüya, alışkanlık, yorgunluk ve dinlenme, karar yorgunluğu |
-| **P4 Toplum, kültür, teknoloji** | AI ve toplum, sosyal medya, çalışma kültürü, sanat. Talep kanıtı zayıftır; yalnızca güçlü talep kanıtı varsa kullanılır |
-- N2 kimlik testi her alanda aynen uygulanır. Dış alandaki bir konu da mekanizma + kullanım + kanıt derecesi taşımak zorundadır (ör. sanat: "insan neden anlamsız bulur, bununla ne yapılır, bu ne kadar sağlam").
+## 3. Vaat (izleyici her videodan ne alır)
+1. **Neden böyle?** Davranışın veya durumun arkasındaki mekanizma.
+2. **Ne yapmalıyım?** Somut, kullanılabilir bir şey: söylenecek cümle, sıra, "bunu söyleme", küçük bir alıştırma.
+3. **Bu ne kadar sağlam?** Her önemli iddianın kanıt derecesi: Güçlü / Orta / Zayıf-tartışmalı.
 
-## 4. İzleyici (hipotez; kanalın kendi verisi gelince yeniden yazılır)
-- **İz1:** 30-55 yaş çalışan yetişkin. Yönetici, ebeveyn, aile bakıcısı; kendini "anlaşılmayan" olarak tanımlayan.
-- **İz2:** Kendi düşünme tarzını veya karşısındakinin tarzını anlamak isteyen. Bir kısmı AI araçlarını düşünme ve yazma için kullanıyor.
-- **İz3:** Küçük ama tutarlı bir şüpheci grup kaynak ve güncellik soruyor.
-- Yorum yazanlar izleyicinin küçük ve seçilmiş bir kısmıdır.
+Üçünden biri eksikse video bu kanalın videosu değildir.
 
-## 5. Talep ilkesi
-- **T1:** Talep önce gelir. Talep yokken sıfırdan konu uydurulmaz. Formül: **kanıtlanmış ihtiyaç × kullanılmamış açı**.
-- **T2 Talep kanıtı sayılanlar (en az biri):** (a) izleyici yorumlarında doğrudan istek (kaynak video + beğeni sayısı), (b) aynı konu/çerçevede yüksek performanslı videolar, (c) arama niyeti.
-- **T3:** Yorum sayısı talep değildir; beğeni almış **istek** yorumu talep sinyalidir.
-- **T4:** Tek bir yüksek izlenmeli video kural kanıtı sayılmaz. Videolar karşılaştırılırken yaşları ve kanalın o dönemki ortalaması hesaba katılır.
+## 4. Açı (her konuyu nasıl ele alırız)
+- **Suçlamasız fark:** Farklılık üstünlük veya eksiklik olarak değil, farklı görünen dünya veya farklı koşullara uyum olarak anlatılır. Kimse aşağıda veya yukarıda gösterilmez; iki taraf da kendi açısından makul olarak sunulur.
+- **Ad koymak:** Her videoda kanalın kendi adını verdiği tek bir kavram olur. Mümkünse izleyicinin yaşayıp adını koyamadığı bir şeye ad verilir.
+- **Kendini yerleştirme:** İzleyici kendini veya çevresindeki birini videoda bulabilmelidir. Yorum çağrısı yaşanmış bir an ister; sayı veya etiket istemez.
+- **Bedel ve sınır:** Anlatılan fikrin bedeli veya sınırı açıkça söylenir. Hiçbir şey sihirli çözüm gibi sunulmaz.
+- **Önce gündelik sahne:** Konu soyut başlamaz; iş yeri, ev, mesajlaşma gibi tanıdık bir sahneyle başlar.
 
-## 6. Çerçeve ilkeleri
-- **Ç1:** Farklılık üstünlük veya eksiklik olarak değil, **farklı görünen dünya veya farklı optimizasyon** olarak çerçevelenir. Kimse aşağıda/yukarıda sunulmaz.
-- **Ç2:** Her videoda kanalın kendi özgün adını taşıyan **bir adlandırılmış kavram** vardır.
-- **Ç3:** İzleyiciye kendini yerleştirme fırsatı verilir. Yorum çağrısı **yaşanmış bir an** ister; sayı veya etiket istemez.
-- **Ç4:** Adı olmayan bir yaşantıya ad vermek kullanılabilir.
-- **Ç5:** Tezin **bedeli veya sınırı** açıkça söylenir.
-- **Ç6:** Rakip kanal 深淵回廊'nın marka ifadeleri ve kalıpları kullanılmaz: 「今夜も深淵を覗いていこう」, 「また次の深淵でお会いしましょう」, 「翻訳者」 kavramı, başlıkta 「視えてる世界 / 見えている世界」 deseni.
+**Aynı konu, bizim açımız (örnekler):**
+| Konu | Bizim gibi olmayan ele alış | Bizim ele alışımız |
+|---|---|---|
+| Kişilik testleri | "Bu tipin gördüğü dünya" veya "insanlar testleri neden sever" | Test sonucunu insan ilişkilerinde ne kadar kullanabilirsin, hangisi sağlam hangisi zayıf, karşındakini testle etiketlemeden nasıl anlarsın |
+| Kuşak farkı | "Üç kuşağın gördüğü dünya" | Başka kuşaktan çalışana geri bildirim: hangi cümle, ne zaman; "kuşak farkı"nın ne kadarı aslında yaş farkı |
+| Aynı hatayı tekrarlamak | "Hata yapan insanın beyni" | İş arkadaşın aynı hatayı tekrarlıyorsa talimatı nasıl değiştirirsin; sen tekrarlıyorsan ne yaparsın |
+| Zor insan tipleri | "Şu tip insanlar tehlikelidir" | Bu davranışı nasıl tanırsın, neden böyle davranıyor olabilir, kendini nasıl korursun |
 
-## 7. Maskot ve ton
-- **M1:** Kanalın yüzü bir maskot karakteridir. Adı, görünümü ve kişiliği henüz tanımlanmadı.
-- **M2:** Kanal "AI yapımı" olarak sunulmaz.
-- **M3:** Maskot uzman, doktor veya akademisyen olarak sunulmaz; rolü rehber/anlatıcıdır. Uzmanlık iddiası yapılmaz. Güven kişiden değil kaynaktan ve kanıt derecesinden gelir. Doğrudan sorulursa yalan söylenmez.
-- **M4:** Ton sakin, yargılamayan, aşağılamayan. Başlık ve kapağın sertliği içeriğin tonuyla çelişmez.
+## 5. Konu alanları
+Ağırlık merkezi birinci alandır. Diğer alanlar aynı kitleye aynı açıyla hizmet ettikleri sürece içeridedir.
+| Alan | Kapsam | Örnek konular |
+|---|---|---|
+| **1. İnsan ilişkileri (merkez)** | Farklı düşünen, konuşan, farklı kuşaktan insanla anlaşmak; iş, aile, eş, arkadaşlık | Talimat verme ve alma, geri bildirim, özür ve ret, kuşak farkı, ebeveyn-çocuk tartışması, farklı bilişsel tarzdaki biriyle çalışma, zor davranışlarla başa çıkma, çekicilik ve ulaşılabilirlik |
+| **2. Düşünme ve iletişim becerisi** | Kendi düşünceni ve hissini başkasına aktarmak, karar vermek | Sözelleştirme, karşıya anlatma, dinleme ve soru sorma, karar verme, hata yapma, AI ile düşünme ve yazma |
+| **3. Gündelik zihin** | Kendi zihninin işleyişini anlayıp kullanmak | Dikkat ve telefon, yorgunluk ve dinlenme, zaman algısı, alışkanlık, yaşla değişen zihin |
+| **4. Etrafımızdaki davranış** | Toplumda ve kültürde gördüğümüz davranışların gündelik hayata yansıyan tarafı | Kişilik testleri, ikna ve pazarlama hileleri, sosyal medya, iş kültürünün kuralları |
 
-## 8. Kanıt sistemi ve güvenlik
-- **K1:** Her videoda **iddia başına kanıt derecesi** belirtilir: **Güçlü** (meta-analiz veya çok sayıda bağımsız tekrar), **Orta** (iyi bir çalışma, sınırlı tekrar), **Zayıf/tartışmalı** (tekrarlanamamış bulgu veya popüler anlatı).
-- **K2:** Kesin dil ("kanıtlandı", "kesinlikle") yalnızca Güçlü için kullanılır. Orta ve altı ihtiyatlı dille (「とされる」 gibi) ve varsa karşı bulguyla sunulur.
-- **K3:** Kaynaklar video açıklamasında listelenir.
-- **K4:** Tartışmalı bulgular kesin sunulmaz. Örnekler: Dunning-Kruger etkisinin "aptallık dağı" eğrisi, sözel gölgeleme (verbal overshadowing), "çalışma belleği = IQ".
-- **K5:** Klinik konulara veya savunmasız gruplara dokunan videolarda tanı koymama uyarısı, damgalamayan dil ve yardım kaynağı notu bulunur. Gerçek kişi yüzü ve damgalayıcı kapak kullanılmaz.
+- Dördüncü alandaki bir konu da gündelik hayata inmeli ve "ne yapmalıyım" sorusuna cevap vermelidir. Yalnızca "ilginç bilgi" olan konu alınmaz.
+- **Bulmaca ve düşünce deneyi** bir format olarak kullanılır: videoya giriş kancası, Short veya bütün bir video. Bütün videoysa sonunda yine mekanizma, adım ve kanıt derecesi verilir.
+- **Klinik konular** (ADHD, ASD, HSP vb.) ana konu yapılmaz; yalnızca "o kişiyle birlikte yaşayan veya çalışan için pratik rehber" açısıyla ele alınır.
 
-## 9. Fikir süzgeci
-Tüm kapılar geçilmelidir; biri başarısızsa fikir reddedilir.
-- **S1 Kimlik:** N2-A, N2-B, N2-C sağlanıyor mu? N6 listesinde mi? Hangi kapsam alanı (P1-P4)?
-- **S2 Talep:** T2'ye göre en az bir kanıt, kaynağıyla yazılı mı? T4'e uyuyor mu?
-- **S3 Kullanım:** İzleyiciye verilecek somut şey açıkça yazılı mı?
-- **S4 Özgünlük:** Aynı ihtiyaç ve aynı açı başka bir kanalda var mı? Varsa farklı açı veya kullanım katmanı gerekir; rakibin videosunun yeniden anlatımı reddedilir.
-- **S5 Kanıt ve güvenlik:** K1-K5'e uyuyor mu? Tartışmalı iddiaların derecesi yazılabiliyor mu?
-- **S6 Paket tutarlılığı:** Başlığın vaadi içerikle aynı mı? Kapak içerikle aynı konuyu mu anlatıyor?
-- **Çıktı biçimi (her fikir için):** `fikir | kapsam alanı | sahne | karşı taraf | talep kanıtı (kaynak + sayı) | mekanizma | kullanılabilir araç | kanıt derecesi taslağı | özgünlük notu | karar (kabul/ret + kural numarası)`.
+## 6. Ton ve marka
+- **Yüz:** Kanalın yüzü bir maskot karakteridir. Adı, görünümü ve kişiliği henüz tanımlanmadı.
+- **Rol:** Maskot rehber ve anlatıcıdır; uzman, doktor veya akademisyen olarak sunulmaz. Güven kişiden değil, kaynaktan ve kanıt derecesinden gelir.
+- **Dürüstlük:** Kanal "AI yapımı" olarak sunulmaz; doğrudan sorulursa yalan söylenmez.
+- **Ses ve ton:** Sakin, yargılamayan, aşağılamayan, sıcak.
+- **Kanıt dili:** Kesin dil ("kanıtlandı", "kesinlikle") yalnızca Güçlü kanıt için kullanılır. Orta ve altı ihtiyatlı dille (「とされる」 gibi) ve varsa karşı bulguyla sunulur. Kaynaklar video açıklamasında listelenir.
+- **Paket tutarlılığı:** Başlığın vaadi içerikle aynıdır. Kapak içerikle aynı konuyu anlatır. Kapağın sertliği içeriğin tonuyla çelişmez.
+- **Dil:** Kanal Japonca. Japonca başlık ve ifadeler, aynı alandaki mevcut Japonca kullanım kalıplarından ve gerçek izleyici yorumlarından türetilir; önerilirken Türkçe karşılığı yanında verilir.
 
-## 10. Yorumlar
-- **Y1:** Fikir değeri taşıyan yorumlar (istek, soru, tekrar eden ihtiyaç) fikir kaynağıdır; kaynak video ve beğeni sayısıyla kaydedilir.
-
-## 11. Yapmayacaklarımız
-1. Başlıkta içeriğin tersini vaat etmek.
-2. Kapakla içeriğin farklı konuyu anlatması.
-3. İçerikle ilgisiz etiket ve hashtag kullanmak.
-4. Gerçek kişi yüzü veya damgalayıcı kapak kullanmak.
-5. Kişi etiketleme veya "öteki"yi suçlama açısı.
-6. Tartışmalı iddiayı kesin sunmak.
-7. Klinik tanıyı izleyicinin kendisini anlatan formatta ana konu yapmak.
+## 7. Sınırlar (yapmayacaklarımız)
+1. Saf eğlence konuları: kan grubu, burç, film zevki, nostalji.
+2. "Ne yapmalıyım" sorusuna cevabı olmayan saf bilgi veya kültür anlatısı.
+3. Kişileri etiketleyip suçlamak veya alaya almak. (Bir davranışı tanımak ve başa çıkmak serbesttir.)
+4. Klinik tanıyı izleyicinin kendisine tanı koyduracak biçimde anlatmak. Klinik konularda tanı koymama uyarısı ve yardım kaynağı notu bulunur.
+5. Tartışmalı bulguyu kesin gibi sunmak (ör. Dunning-Kruger'in "aptallık dağı" eğrisi, sözel gölgeleme etkisi, "çalışma belleği = IQ").
+6. Başlıkta içeriğin tersini vaat etmek; kapakla içeriğin farklı konuyu anlatması; içerikle ilgisiz etiket ve hashtag.
+7. Gerçek kişi yüzü veya damgalayıcı kapak.
 8. Maskotu uzman veya doktor olarak sunmak.
-9. N2 testini geçmeyen bir videoyu almak.
-10. Rakibin marka ifadelerini veya aynı açıyı kopyalamak.
+9. Rakip kanal 深淵回廊'nın marka ifadelerini ve kalıplarını kullanmak: 「今夜も深淵を覗いていこう」, 「また次の深淵でお会いしましょう」, 「翻訳者」 kavramı, başlıkta 「視えてる世界 / 見えている世界」 deseni. Başka bir kanalın videosunu yeniden anlatmak.
 
-## 12. Dil
-- Kanal dili Japoncadır. Japonca başlık ve ifade önerilerinde Türkçe karşılığı yanında verilir.
-- Japonca ifadeler, aynı alandaki mevcut Japonca kullanım kalıplarından ve gerçek izleyici yorumlarından türetilir.
+## 8. Değişmez ve ayarlanabilir
+- **Değişmez:** Kimlik cümlesi (1), vaat (3), açının temel ilkeleri (4), maskot rolü ve dürüstlük (6), sınırlar (7). Bunlar değişirse bu kanal değil, başka bir kanal olur.
+- **Ayarlanabilir:** İzleyici tanımı (kanalın kendi verisi gelince), konu alanlarının sınırı ve örnekleri (5), ton ayrıntıları. Yalnızca aynı yönde birden çok güçlü kanıtla değişir; tek bir fikir veya tek bir video bunları değiştirmez.

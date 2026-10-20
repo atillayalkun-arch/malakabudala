@@ -11,9 +11,10 @@
 - "Uygulama" talebi yorumlarda: 002, 009, 015, 017, 048, 052.
 - Rakibin marka ifadeleri: 11/11 uzun videoda.
 
-## Bilinen uyuşmazlıklar (kullanıcı kararı bekliyor, DNA şimdilik değişmedi)
-1. **Kişi tipi/sınıflama videoları** rakipte güçlü (039 301K, 043 120K, yeni karanlık psikoloji videosu ilk gün 2K VPH) ama DNA "kişi etiketleme"yi eliyor. Kural talep verisinden değil, 018'deki zehirli yorum alanından çıkarıldı (değer tercihi). Seçenek: "etiketleyip suçlama" elenir, "tanıyıp başa çıkma" kabul.
-2. **Bulmaca** 3/3 güçlü ama DNA yalnızca kanca/format sayıyor (kanıt başlık düzeyinde olduğu için temkinli).
+## Bilinen uyuşmazlıklar (v1.0'da veriye göre karara bağlandı)
+1. **Kişi tipi/sınıflama videoları** rakipte güçlü (039 301K, 043 120K, yeni karanlık psikoloji videosu ilk gün 2K VPH) ama DNA "kişi etiketleme"yi eliyor. Kural talep verisinden değil, 018'deki zehirli yorum alanından çıkarıldı (değer tercihi). **Karar (v1.0):** etiketleyip suçlama yasak; davranışı tanıyıp başa çıkma serbest.
+2. **Bulmaca** 3/3 güçlü. **Karar (v1.0):** format olarak serbest (kanca, Short veya bütün video); bütün videoysa vaat (mekanizma + adım + kanıt) yine zorunlu.
+3. **İkinci kaynak kanal** (karanlık, sade kapaklı; başlıklar 「なぜ…なのか【文化人類学/民俗学/社会心理学…】」): toplum/kültür konuları 107K-184K. P4'ün "zayıf talep" değerlendirmesine karşı kanıt; v1.0'da dördüncü alan "gündelik hayata inme + ne yapmalı" koşuluyla içeride. Yalnızca başlık düzeyinde bakıldı (güven D).
 
 ## Sınırlar
 - Tek rakip kanal; derin kart 13/55, seçilimli; CTR/izlenme süresi/trafik kaynağı yok; Japon talebi dışarıdan doğrulanmadı.
@@ -27,3 +28,4 @@
 ## Sürüm geçmişi
 - 0.1: ilk taslak, konu odaklı niş. 0.2: kimlik yönteme taşındı, halkalar. 0.3: halka → sütun, strateji ayrıldı. 0.4: değişmez çekirdek/ayarlanabilir ayrımı, sütun stratejisi arşive.
 - 0.5 (2026-10-20): DNA tek başına okunabilir hale getirildi; dosya yolları, kart numaraları, kanıt ayrıntıları, sürüm geçmişi ve operasyonel notlar bu dosyaya taşındı. "Sütun" yerine "kapsam alanı". Kural içeriği değişmedi.
+- 1.0 (2026-10-20): Yeniden yazım. Yapı: kimlik cümlesi, izleyici, vaat, açı, konu alanları, ton ve marka, sınırlar, değişmez/ayarlanabilir. Süzgeç, talep ilkesi ve kaynak kanal taraması ayrı dosyaya (`fikir-suzgeci.md`) alındı. Gerekçe: önceki sürümlerde kimlik net değildi (v0.1 konu odaklı ve dar, v0.2-0.5 çok geniş ve açısız); niş = kitle + ihtiyaç + açı, konu listesi değil. İki uyuşmazlık veriye göre karara bağlandı.
