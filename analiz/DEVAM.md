@@ -3,7 +3,7 @@
 ## 1. Amaç ve aşama
 Kullanıcı (IT öğrencisi) faceless **Japonca YouTube kanalı** kuruyor. Plan: hedef kanalı analiz et → **kanal DNA'sı + kanal haritası** yaz → sonra video fikri üretim hattı. Hedef kanal: **深淵回廊@人間の脳と心の仕組み** (ID UCV8Jcbou4ei7HhtuffgvUYg), açılış 2026-07-16, çekim 2026-10-14: 55 video, ~14M izlenme, ~97K abone.
 **Biten:** Aşama 0-4 (veri kontrolü, 13 video kartı, çapraz analiz, tam liste güncellemesi, kanal analizi raporu, çürütme turu).
-**Sırada:** Kullanıcı 4 soruyu tek tek cevaplayacak (bkz. 4) → **kanal DNA'sı + kanal haritası** → video fikri üretim hattı.
+**Sırada (4 soru cevaplandı, bkz. 4):** **kanal DNA'sı + kanal haritası** → video fikri üretim hattı.
 Bu analiz yalnızca bir aşama; niş kararı hedef kanalı inceleyerek verilecek, sonra "daha iyi/mantıklı" bulgular eklenecek.
 
 ## 2. Dosya haritası (okuma sırası)
@@ -29,7 +29,7 @@ Bu analiz yalnızca bir aşama; niş kararı hedef kanalı inceleyerek verilecek
 1. **Niş yönü (KARARLANDI 2026-10-20: çekirdek = kişiler arası anlama + uygulama + kanıt derecesi; iş yeri bir sahne/katman, bulmaca kanca, klinik yan hücre; ayrıntı `nis-degerlendirme.md`).** Eski soru: (a) iş hayatı ağırlıklı alt alan, (b) bulmaca/düşünce deneyi formatı, (c) pratik rehber katmanı ya da birleşimi. *Benim önerim: (a)+(c) ana eksen, (b) yan format.*
 2. **Kanal kimliği (KARARLANDI 2026-10-20: kanalın bir marka yüzü = maskot karakter; kanal 'AI yapımı' olarak gösterilmeyecek [K]. Benim notum: maskot uzman gibi sunulmaz, güven kaynak + kanıt derecesi ile kurulur; doğrudan sorulursa yalan söylenmez [kullanıcı onayı bekliyor]; YouTube sentetik içerik etiketi kuralı kanal açılmadan doğrulanmalı [web ile doğrulanmadı]).** Eski soru: yüzsüz AI ses kalıyor mu; "kim konuşuyor, neden güvenmeliyim?" sorusuna cevap (yöntem/kaynak sayfası?).
 3. **Short stratejisi (KARARLANDI 2026-10-20: ilk etapta Short öncelikli değil; hem test hem uzun video kesiti/tanıtım amaçlı kullanılabilir; ara sıra, kullanıcı vaka başına karar verir. Kullanıcı gerekçesi: Short izleyicisi ile uzun video izleyicisi farklı algoritma, Short abone için iyi olabilir [K]; bu bizim verimizde ayrıştırılamıyor).** Eski soru: sıklık ve yapı (uzun videonun tek sahnesi + sabit yorum linki; açı testi).
-4. **Yorum cevaplama politikası:** kanal sahibi cevap verecek mi?
+4. **Yorum cevaplama politikası (KARARLANDI 2026-10-20: ilk etapta her yoruma cevap, sonra seçici; fikir değeri taşıyan yorumlar fikir hattına girer; kanala saldırı olmadıkça içsel düşünce/şiddet içerikli yorumlar engellenmez, tartışma serbest. Not: YouTube'un nefret söylemi kuralları ve reklam riski ayrıca geçerli [kullanıcı bilgilendirildi]). DNA'ya yalnızca 'yorum = fikir girdisi' girer; cevap/moderasyon ayrıntısı operasyon notudur.** Eski soru: kanal sahibi cevap verecek mi?
 
 ## 5. Ana bulgular (özet; güven rapor içinde)
 - Aynı dönemde (16 Tem-10 Ağu) **4 IQ/zekâ videosu 83K-1,02M, diğer 11 video 10,8K-74K**; 003 (IQ, 158K) vs 004 (nostalji, 14K) aynı gün. Short/"関連動画" beslemesi karıştırıcı. (Orta-yüksek güven.)
