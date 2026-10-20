@@ -22,6 +22,9 @@ Bu analiz yalnızca bir aşama; niş kararı hedef kanalı inceleyerek verilecek
 - Her video **aynı derinlikte** işlendi (yorumlar dahil), yorumlar nişin tek belirleyicisi değil ama "neden seviyor/karşılanmamış ihtiyaç" kanıtı.
 - Depo şu an **Public**; yorumlar gerçek kişilerin metni. **Kullanıcıya Private yapmasını önerdim** (Settings → Danger Zone → Change visibility); henüz yapıp yapmadığı bilinmiyor.
 
+- **Ham veri (`japa analizzz/`) tekrar analiz edilmeyecek** (kullanıcı kararı, 2026-10-20). Kartlar (13) ve `video-listesi-kodlu.md` yeterli sayılır; kalan 42 video başlık düzeyinde kalır, sonuçlar bir kademe düşük güvenle okunur.
+- **Taslak niş değerlendirmesi:** `analiz/nis-degerlendirme.md` (çekirdek önerisi: kişiler arası anlama + uygulama + kanıt derecesi; iş yeri=sahne, bulmaca=kanca). Karar bekliyor.
+
 ## 4. Kullanıcıdan beklenen 4 karar (kullanıcı tek tek cevaplayacak)
 1. **Niş yönü:** (a) iş hayatı ağırlıklı alt alan, (b) bulmaca/düşünce deneyi formatı, (c) pratik rehber katmanı ya da birleşimi. *Benim önerim: (a)+(c) ana eksen, (b) yan format.*
 2. **Kanal kimliği:** yüzsüz AI ses kalıyor mu; "kim konuşuyor, neden güvenmeliyim?" sorusuna cevap (yöntem/kaynak sayfası?).
