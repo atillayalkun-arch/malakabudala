@@ -14,7 +14,7 @@
 - **N3 [KARAR]:** **İş yeri bir sahnedir, niş değildir.** Diğer sahneler: aile, partner, arkadaş, kuşaklar arası. İş yeri sık kullanılabilir ama kanalın sınırını çizmez.
 - **N4 [KARAR]:** Bulmaca/düşünce deneyi **kanca ve Short formatıdır**, ana çatı değildir (kanıt yalnızca başlık düzeyinde, güven D-O). Klinik/özellik konuları ana eksen değildir; yalnızca "karşı taraf için pratik rehber" açısıyla yan hücre olabilir.
 - **N5 [HİPOTEZ, O]:** Talebin dayanağı: (i) kişiler arası çekim/uyum videoları rakipte medyan 138K (n=6), (ii) 6+ videonun yorumunda "ne yapmalı" talebi, (iii) rakip "anlama"da güçlü, "uygulama"da zayıf.
-- **N6:** Dışarıda kalanlar (fikir bu listedeyse reddedilir): saf kişisel gelişim/alışkanlık (kişiler arası boyutu yok; rakipte zayıf: 032, 055), nostalji/film/kan grubu/burç tipi eğlence konuları, kişi etiketleme ("şu tip insan"), klinik tanı açıklaması "ben"i anlatan formatta.
+- **N6:** Dışarıda kalanlar (fikir bu listedeyse reddedilir): saf kişisel gelişim/alışkanlık (**TARTIŞMALI, düzeltme 2026-10-20:** önceki gerekçe 055'in 2K olmasıydı; kullanıcının ekran görüntüsünde 055 beş günde ~153K, 054 ~106K; bu madde kanıtsız kaldı, karar bekliyor), nostalji/film/kan grubu/burç tipi eğlence konuları, kişi etiketleme ("şu tip insan"), klinik tanı açıklaması "ben"i anlatan formatta.
 
 ## 2. İzleyici (hepsi [HİPOTEZ], yalnızca yorumlardan, güven D-O)
 - **İz1:** 30-55 yaş çalışan yetişkin. Yönetici, ebeveyn, aile bakıcısı, "anlaşılmayan" olarak tanımlayan.

@@ -49,6 +49,8 @@ Dayanak: `rapor-kanal-analizi.md`, `capraz-analiz.md` (özellikle 0b), `video-li
 
 Ek ayrım **[S, D-O]:** Pratik "kişisel gelişim alışkanlığı" videoları zayıf (032 "継続の簡単な方法" 40K; 031 88K; 055 yeni, 2K), **kişiler arası pratik** videoları güçlü (026, 040, 042, 053). Yani "how-to" tek başına değil, **kişiler arası** olduğunda talep görüyor gibi. Zaman karıştırıcısı var.
 
+**DÜZELTME (2026-10-20, kullanıcının rakip ekran görüntüsü):** 055 ("hata yapmayan insanların 5 alışkanlığı") veri çekiminde 0 günlük ve 2,2K idi; ekran görüntüsünde ~5 gün sonra ~153K. 054 (言語化 5 aşama) ~106K (7 gün), 053 ~132K (9 gün). Bu, yukarıdaki "kişisel how-to zayıf, kişiler arası how-to güçlü" ayrımını **desteklemiyor**; ayrımın güveni D'ye düşürüldü.
+
 ## 4. Öneri: kanal çekirdeği (karar bekliyor)
 
 **Çalışma tanımı:** *"Farklı düşünen, farklı konuşan, farklı kuşaktan insanla nasıl anlaşılır"*, yani **対人翻訳 (kişiler arası çeviri)**: anlama (neden böyle görüyor) **+ uygulama** (ne söyleyeyim/yapayım) **+ kanıt derecesi** (bu ne kadar sağlam).
