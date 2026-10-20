@@ -1,3 +1,5 @@
+> **ARŞİV (2026-10-20):** Kullanıcı kararıyla şimdilik kullanılmıyor. Fikir üretiminde tek bağlayıcı dosya `analiz/kanal-dna.md`. Planlama kuralları kanal açılınca yeniden değerlendirilir.
+
 # İçerik sütunları ve strateji: sürüm 0.1 (TASLAK, kullanıcı onayı bekliyor)
 
 ## 0. Bu belge nedir, nasıl kullanılır

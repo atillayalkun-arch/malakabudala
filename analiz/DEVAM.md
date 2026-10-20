@@ -23,7 +23,7 @@ Bu analiz yalnızca bir aşama; niş kararı hedef kanalı inceleyerek verilecek
 - Depo şu an **Public**; yorumlar gerçek kişilerin metni. **Kullanıcıya Private yapmasını önerdim** (Settings → Danger Zone → Change visibility); henüz yapıp yapmadığı bilinmiyor.
 
 - **Ham veri (`japa analizzz/`) tekrar analiz edilmeyecek** (kullanıcı kararı, 2026-10-20). Kartlar (13) ve `video-listesi-kodlu.md` yeterli sayılır; kalan 42 video başlık düzeyinde kalır, sonuçlar bir kademe düşük güvenle okunur.
-- **Kanal DNA'sı taslağı:** `analiz/kanal-dna.md` (sürüm 0.3 = konumlandırma, onay bekliyor; strateji parçaları `analiz/icerik-sutunlari.md` v0.1'e taşındı = içerik sütunları, kanal haritası yerine resmî terim;  kimlik = mekanizma+kullanım+kanıt derecesi, konular 4 halka içten dışa; kullanıcı yapıyı onayladı, metin onayı bekliyor). Dosyalar yapay zekâ için açık/numaralı/ölçülebilir yazılır; kullanıcıya sohbette basit dille özetlenir.
+- **Kanal DNA'sı:** `analiz/kanal-dna.md` (sürüm 0.4, konumlandırma). **Fikir üretiminde tek bağlayıcı dosya** [KARAR]. Değişmez çekirdek / ayarlanabilir kısım ayrımı bölüm 0b'de. İçerik sütunları strateji taslağı arşivde (`analiz/arsiv/icerik-sutunlari.md`), şimdilik kullanılmıyor. Fikir üretimi iki yoldan: (1) rakip video verisinin sentezi, (2) kendi ham araştırmamız; ikisi de DNA süzgecinden geçer. Dosyalar yapay zekâ için açık/numaralı yazılır, kullanıcıya sohbette basit dille özetlenir.
 - **Taslak niş değerlendirmesi:** `analiz/nis-degerlendirme.md` (çekirdek önerisi: kişiler arası anlama + uygulama + kanıt derecesi; iş yeri=sahne, bulmaca=kanca). Karar bekliyor.
 
 ## 4. Kullanıcıdan beklenen 4 karar (kullanıcı tek tek cevaplayacak)

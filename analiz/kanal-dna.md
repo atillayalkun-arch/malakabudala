@@ -1,13 +1,34 @@
-# Kanal DNA'sı (konumlandırma): sürüm 0.3 (TASLAK, kullanıcı onayı bekliyor)
+# Kanal DNA'sı (konumlandırma): sürüm 0.4 (TASLAK, kullanıcı onayı bekliyor)
 
 ## 0. Bu belge nedir, nasıl kullanılır
 - Amaç: Video fikri üretirken ve değerlendirirken **kanal kimliğinde kalmayı** sağlayan sabit kurallar. Fikir DNA'ya uymak zorundadır; DNA fikre uymaz. DNA fikir üretmez, fikri eler. Fikir üretimi kanal haritasının (matris) ve yorum/talep hattının işidir.
 - Okuyucu: Yapay zekâ modelleri ve kullanıcı. Kurallar açık, ölçülebilir ve numaralıdır (N1, P1, S1...). Atıf yaparken numarayı kullan.
 - Kural etiketleri: **[KARAR]** kullanıcı verdi, kullanıcı açıkça değiştirmedikçe değişmez. **[ÖNERİ]** model önerdi, onay bekliyor. **[HİPOTEZ]** veriyle sınanacak. Güven: **Y/O/D**.
-- Bu belge **konumlandırmadır** (en sabit katman). İçerik sütunlarının stratejisi (öncelik, yayın payı, geçiş eşikleri, alt konular, matris, aday hücreler) `analiz/icerik-sutunlari.md` dosyasındadır ve daha sık güncellenir; DNA'nın dışına çıkamaz.
+- Bu belge **konumlandırmadır** ve fikir üretiminde **tek bağlayıcı dosyadır** [KARAR]. Fikir kaynağı ne olursa olsun (rakip video verisinin sentezi veya kendi ham araştırmamız) aynı süzgeçten (bölüm 8) geçer.
+- Arşiv: Eski strateji taslağı (yayın payı, geçiş eşikleri, rakip kaynaklı aday hücreler) `analiz/arsiv/icerik-sutunlari.md`'de; şu an kullanılmıyor, kanal açılınca planlama için yeniden değerlendirilir.
 - Kanıt kaynağı: `analiz/rapor-kanal-analizi.md`, `analiz/capraz-analiz.md`, `analiz/video-listesi-kodlu.md`, `analiz/kartlar/`, `analiz/nis-degerlendirme.md`.
 - Değişiklik kuralı: Yalnızca bilinçli kararla ve kanıtla; her değişiklik sürüm numarası ve gerekçeyle kayda geçer (bölüm 12). Tek bir fikir DNA'yı değiştirmez; önce fikir elenir.
 - Dil: Kanal Japonca. Başlık/ifade kararları hedef kanalın kalıplarından ve yorumlardaki gerçek Japoncadan türetilir; Japonca metin üretirken Türkçe karşılığı yanında verilir. Japonca doğrulayan kimse yok; kritik ifadeler **D** güvenle işaretlenir.
+
+## 0b. Değişmez çekirdek ve ayarlanabilir kısım [KARAR]
+Kanal belirli bir izleyici kitlesinin belirli bir talebine hizmet eder. Bu yüzden DNA'nın iki kısmı vardır:
+
+**Değişmez çekirdek (kimlik).** Bunlar değişirse bu kanal değil, yeni bir kanal olur; böyle bir öneri reddedilir ve yalnızca kullanıcının "yeni kanal" kararı olarak ele alınır:
+- N1 tanımı: insan zihni ve davranışının günlük hayatta işleyişi.
+- N2 kimlik testi: mekanizma + kullanım + kanıt derecesi.
+- Ç1: yargılamayan çerçeve (kimse aşağıda/yukarıda değil).
+- M1, M2, M4: maskot yüz, "AI yapımı" sunulmama, sakin ve yargılamayan ton.
+- K1-K5: kanıt sistemi ve güvenlik.
+- T1: talep önce gelir.
+- Bölüm 10: yapmayacaklarımız.
+Örnek: kanalı eğlence/trivia kanalına çevirmek, kanıt derecesini bırakmak, sansasyonel/korku temalı bir kimliğe geçmek çekirdek değişikliğidir, yapılmaz.
+
+**Ayarlanabilir kısım (kalibrasyon).** Yalnızca kanıtla, sürüm numarasıyla ve çekirdeğe dokunmadan değişir. Amaç kimliği değiştirmek değil, kimlik içinde talebe daha iyi oturmaktır:
+- İçerik sütunlarının sınırı ve sırası (P1-P4): ör. kanıtı gelmeyen P4'ü çıkarmak, bir sütunu daraltmak, sıra değiştirmek.
+- N4-N6 ayrıntıları: dışarıda listesinin ayrıntısı, klinik yan hücre kuralı.
+- Bölüm 3 izleyici hipotezi (gerçek veri gelince).
+- Ç2-Ç6 uygulama ayrıntıları, süzgeç çıktı formatı.
+- Tetikleyici: aynı yönde birden çok güçlü kanıt (ör. elenen fikirlerin tekrar eden bir deseni, kendi kanal verimiz). Tek bir fikir veya tek bir video DNA'yı değiştirmez.
 
 ## 1. Kimlik ve vaat
 - **N1 [KARAR]:** Kanalın kimliği **konu değil yöntemdir.** Çalışma tanımı: *İnsan zihninin ve davranışının günlük hayatta nasıl çalıştığını açıklayan, nasıl kullanılacağını gösteren ve her iddianın ne kadar sağlam olduğunu söyleyen kanal.* (Japonca karşılığı sonra, **D**.)
@@ -21,7 +42,7 @@
 - **N6 Dışarıda kalanlar (fikir bu listedeyse reddedilir):** N2 testini geçmeyenler; saf eğlence konuları (kan grubu, burç, film zevki, nostalji); kişi etiketleme ("şu tip insan"); klinik tanı açıklaması "ben"i anlatan formatta ana eksen olarak; kullanımı olmayan saf bilgi/kültür anlatısı. Saf kişisel gelişim **kimlik testini geçerse içeridedir** (düzeltme 0.2: önceki dışlama gerekçesi 055'in erken ölçümüne dayanıyordu, çöktü).
 - **N7 [HİPOTEZ, güven O-D]:** Talep dayanağı: rakip kanalda (i) kişiler arası çekim/uyum videoları medyan 138K (n=6), (ii) 6+ videonun yorumunda "ne yapmalı" talebi, (iii) rakip "anlama"da güçlü, "uygulama"da zayıf, (iv) iletişim/düşünme becerisi ve günlük zihin videoları 105K-1,0M aralığında. **Sınırlar:** tek rakip kanal; derin kart 13/55 ve seçilimli; CTR/izlenme süresi yok; Japon pazarının dışından doğrulama yok (iletişim/ilişki kitaplarının evergreen talebi genel bilgidir, doğrulanmadı).
 
-## 2. İçerik sütunları (çerçeve; strateji ve ayrıntı: `analiz/icerik-sutunlari.md`)
+## 2. İçerik sütunları
 Sütunlar içten dışa, **kimliğe yakınlık sırasıyla** dizilir (performans sırası değil).
 | Sütun | Kapsam |
 |---|---|
@@ -30,9 +51,9 @@ Sütunlar içten dışa, **kimliğe yakınlık sırasıyla** dizilir (performans
 | **P3 Günlük zihin ve davranış** | Dikkat, zaman algısı, rüya, alışkanlık, yorgunluk/dinlenme, karar yorgunluğu |
 | **P4 Toplum, kültür, teknoloji** | AI ve toplum, sosyal medya, çalışma kültürü, sanat |
 
-- **P1 [KARAR]:** Fikir önce en içteki sütunda aranır; süzgeçten (bölüm 8) geçen kullanılmamış fikir yoksa dış sütuna geçilir. Geçiş eşikleri ve yayın payları `icerik-sutunlari.md`'dedir.
+- **P1 [KARAR]:** Fikir önce en içteki sütunda aranır; süzgeçten (bölüm 8) geçen kullanılmamış fikir yoksa dış sütuna geçilir. Yayın payı ve geçiş eşikleri şimdilik tanımlı değil; kanal açılınca belirlenir (taslak: `arsiv/icerik-sutunlari.md`).
 - **P2 [KARAR]:** N2 kimlik testi dış sütunlarda da aynen uygulanır. "Mekanizma + kullanım + kanıt derecesi" olmayan video hiçbir sütunda alınmaz.
-- **P3 [KARAR]:** Sütun eklemek, çıkarmak, tanımını veya sırasını değiştirmek DNA sürümü gerektirir. Sütun içine alt konu eklemek gerektirmez (bu `icerik-sutunlari.md` işidir).
+- **P3 [KARAR]:** Sütun eklemek, çıkarmak, tanımını veya sırasını değiştirmek DNA sürümü gerektirir. Sütun içine alt konu eklemek gerektirmez.
 - **P4 [ÖNERİ]:** P4'ün talep kanıtı zayıf (D). Kanıt gelmezse P4'ün DNA'dan çıkarılması bir sürüm kararı olarak değerlendirilir.
 
 ## 3. İzleyici (hepsi [HİPOTEZ], yalnızca yorumlardan, güven D-O)
@@ -97,7 +118,7 @@ Sütunlar içten dışa, **kimliğe yakınlık sırasıyla** dizilir (performans
 
 ## 11. Bilinen sınırlar ve açık kararlar
 - Kanıt tek rakip kanala dayanıyor; derin kart 13/55 video ve seçilimli. CTR, izlenme süresi, trafik kaynağı, abone dönüşümü yok. Rakibin son videoları için yalnızca bir ekran görüntüsü var (farklı yaşlarda).
-- İş yeri ve bulmaca kanıtı karışık/ince (bkz. `nis-degerlendirme.md`). P3 ve P4 kanıtı P1-P2'den zayıf (sütun kanıt tablosu `icerik-sutunlari.md`'de); sütun sıralaması kimliğe yakınlığa dayanıyor, talebe değil.
+- İş yeri ve bulmaca kanıtı karışık/ince (bkz. `nis-degerlendirme.md`). P3 ve P4 kanıtı P1-P2'den zayıf (sütun kanıt tablosu `arsiv/icerik-sutunlari.md`'de); sütun sıralaması kimliğe yakınlığa dayanıyor, talebe değil.
 - Japon talebi dışarıdan doğrulanmadı (arama/öneri, kitap listeleri). Sütun sırasının dış doğrulaması ayrı adım.
 - Açık: kanal adı, maskot kimliği, ses/müzik, Japonca terimler (D), sentetik içerik etiketi (M6), gerçek izleyici verisi.
 
@@ -105,3 +126,4 @@ Sütunlar içten dışa, **kimliğe yakınlık sırasıyla** dizilir (performans
 - **0.1 (2026-10-20):** İlk taslak. Niş cümlesi konu odaklıydı.
 - **0.2 (2026-10-20):** Kimlik konudan yönteme taşındı (N1-N2). Konu halkaları ve geçiş kuralları eklendi (bölüm 2). Gerekçe: v0.1 niş cümlesi tek rakibin üst videolarından çıkmış bir konu havuzuydu; tükenme ve sapma riski taşıyordu. N6'daki "saf kişisel gelişim dışarıda" maddesi 055 örneği nedeniyle kaldırıldı. Onay bekliyor.
 - **0.3 (2026-10-20):** Terim düzeltmesi (halka → içerik sütunu, H → P). Strateji parçaları (geçiş eşikleri, yayın payları, sütun kanıt tablosu) `icerik-sutunlari.md`'ye taşındı. DNA yalnızca konumlandırma + sütun çerçevesi olarak kaldı. Onay bekliyor.
+- **0.4 (2026-10-20):** Değişmez çekirdek / ayarlanabilir kısım ayrımı eklendi (bölüm 0b). DNA fikir üretiminde tek bağlayıcı dosya oldu; strateji taslağı arşive taşındı (kullanıcı kararı: şimdilik içerik sütunları stratejisine ihtiyaç yok). Onay bekliyor.
