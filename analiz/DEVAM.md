@@ -26,7 +26,7 @@ Bu analiz yalnızca bir aşama; niş kararı hedef kanalı inceleyerek verilecek
 - **Taslak niş değerlendirmesi:** `analiz/nis-degerlendirme.md` (çekirdek önerisi: kişiler arası anlama + uygulama + kanıt derecesi; iş yeri=sahne, bulmaca=kanca). Karar bekliyor.
 
 ## 4. Kullanıcıdan beklenen 4 karar (kullanıcı tek tek cevaplayacak)
-1. **Niş yönü:** (a) iş hayatı ağırlıklı alt alan, (b) bulmaca/düşünce deneyi formatı, (c) pratik rehber katmanı ya da birleşimi. *Benim önerim: (a)+(c) ana eksen, (b) yan format.*
+1. **Niş yönü (KARARLANDI 2026-10-20: çekirdek = kişiler arası anlama + uygulama + kanıt derecesi; iş yeri bir sahne/katman, bulmaca kanca, klinik yan hücre; ayrıntı `nis-degerlendirme.md`).** Eski soru: (a) iş hayatı ağırlıklı alt alan, (b) bulmaca/düşünce deneyi formatı, (c) pratik rehber katmanı ya da birleşimi. *Benim önerim: (a)+(c) ana eksen, (b) yan format.*
 2. **Kanal kimliği:** yüzsüz AI ses kalıyor mu; "kim konuşuyor, neden güvenmeliyim?" sorusuna cevap (yöntem/kaynak sayfası?).
 3. **Short stratejisi:** sıklık ve yapı (uzun videonun tek sahnesi + sabit yorum linki; açı testi).
 4. **Yorum cevaplama politikası:** kanal sahibi cevap verecek mi?
